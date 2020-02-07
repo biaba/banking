@@ -1,0 +1,28 @@
+
+
+Application for online banking
+
+Used technologies:
+- Java 1.8.0_221
+- Spring framework 5.0.2.
+- Hibernate 5.2.16.Final
+- MySql 8.0
+- Maven 3.6.1
+- Tomcat 9.0
+- Eclipse 2019-03 (4.11.0)
+- ajax
+
+Database scripts provided in sql_scripts folder
+
+Description of application:
+Customer is able to:
+- see balances;
+- transfer funds
+
+Employee is able to:
+- open account 
+- register a new customer
+- withdraw money
+- deposit money
+- transfer funds
+- search transactions

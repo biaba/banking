@@ -1,0 +1,24 @@
+{
+  "id" : 4,
+  "amount" : 123,
+  "date" : null,
+  "status" : "completed",
+  "credit_account" : {
+    "id" : 1,
+    "type" : "saving",
+    "accountNumber" : "555",
+    "balance" : 222,
+    "users" : [ ],
+    "userId" : 0
+  },
+  "string_credit_account" : null,
+  "debit_account" : {
+    "id" : 11,
+    "type" : "saving",
+    "accountNumber" : "8885",
+    "balance" : 0,
+    "users" : [ ],
+    "userId" : 0
+  },
+  "string_debit_account" : null
+}
